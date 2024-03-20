@@ -1,4 +1,5 @@
-##**<u>Object-Detection-for-Autonomous-vehicles</u>**
+##**Object-Detection-for-Autonomous-vehicles**
+
 Team Members:
   a) Sravya TP
   b) Bhargavi. K
@@ -6,7 +7,7 @@ Team Members:
   d) Tharuni
   e) Shreeyan. B
 
-#<u>Data Set: BDD100K</u>
+#***<u>Data Set: BDD100K</u>***
 The BDD100K dataset is a comprehensive and diverse collection of images specifically designed for object detection tasks in autonomous vehicles. It contains 136,041 images, covering a wide range of elements commonly found on roadways. These images include cars, pedestrians, traffic lights, footpaths, human activity, commercial establishments, architectural structures, water features, urban furniture, bridges, and signboards.
 
 The dataset is organized into three main folders: "bdd100k", "bdd100k_labels_release", and "bdd100k_seg". The "bdd100k" folder contains the images, divided into "10k" and "100k" directories within the "images" subfolder. These directories are further subdivided into "Test", "Train", and "Val" categories, ensuring a well-organized and meticulous segregation of data for training, validation, and testing purposes.
