@@ -1,6 +1,6 @@
 # Object-Detection-for-Autonomous-vehicles
 
-Team Members:
+<u>**Team Members:**</u>
 
   a) Sravya TP
   
