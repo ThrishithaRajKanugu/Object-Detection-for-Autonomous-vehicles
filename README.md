@@ -12,6 +12,8 @@
   
   e) Shreeyan. B
 
+# Week_1 (Taks:1)
+
 ***Data Set: BDD100K***
 
 The BDD100K dataset is a comprehensive and diverse collection of images specifically designed for object detection tasks in autonomous vehicles. It contains 136,041 images, covering a wide range of elements commonly found on roadways. These images include cars, pedestrians, traffic lights, footpaths, human activity, commercial establishments, architectural structures, water features, urban furniture, bridges, and signboards.
