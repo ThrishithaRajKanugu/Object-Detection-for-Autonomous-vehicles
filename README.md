@@ -1,10 +1,15 @@
 # Object-Detection-for-Autonomous-vehicles
 
 Team Members:
+
   a) Sravya TP
+  
   b) Bhargavi. K
+  
   c) Thrishtha. K
-  d) Tharuni
+  
+  d) Tharuni. D
+  
   e) Shreeyan. B
 
 ***Data Set: BDD100K***
